@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcetch",
+        "uuid": 4270326,
+        "checksum": "2a8qcd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
